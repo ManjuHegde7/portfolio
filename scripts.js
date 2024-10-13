@@ -42,6 +42,18 @@ const experiences = [
             'Conducted training sessions on data extraction, cleaning, and automation',
         ],
     },
+    {
+        title: 'Process Specialist - SunTrust Banking',
+        company: 'Infosys BPO Limited',
+        period: 'Feb 2011 - Aug 2014',
+        achievements: [
+            'Supervised a team of 18 members',
+            'Managed task allocation, production tracking, and client interaction',
+            'Conducted checks on collaterals and loan status',
+            'Spearheaded process excellence and automation initiatives',
+            'Collaborated with different cross-functional teams',
+        ],
+    },
 ];
 
 const accomplishments = [
